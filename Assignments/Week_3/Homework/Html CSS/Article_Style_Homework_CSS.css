@@ -1,0 +1,79 @@
+#Cat_Hat {
+    background-color: magenta;
+    margin: 10px;
+    font-family: "EmojiOne Colors";
+    font-size: 18px;
+    border-color: purple; 
+    border-style: dashed; 
+    border-width: 40px; 
+    margin-top: 50px; 
+    margin-left: auto;
+    margin-right: auto; 
+    margin-bottom: -50px;  
+    padding-top: 20px;  
+    padding-right: 40px; 
+}
+
+
+#Chalice { 
+    background-color: magenta;
+    margin: 10px;
+    font-family: "EmojiOne Colors";
+    font-size: 18px;
+    border-color: purple; 
+    border-style: dashed; 
+    border-width: 40px; 
+    margin-top: -20px; 
+    margin-left: auto;
+    margin-right: auto; 
+    margin-bottom: -50px;  
+    padding-top: -20px;  
+    padding-right: 100px; 
+
+}
+
+#Chalice_2
+    {
+    background-color:blue;
+    font-family: "Ariel Black";
+    font-size: 16px;
+    border-color: purple; 
+    border-style: dotted; 
+    border-width: 40px; 
+    margin-top: -30px; 
+    margin-left: auto;
+    margin-right: auto; 
+    margin-bottom: 60px;  
+    padding-top: 40px;  
+    padding-right: 100px; 
+
+}
+
+.box {
+    width: 1266px; 
+    height: 200px; 
+    background-color: cornsilk;
+    border-style: solid; 
+    border-width: 5px; 
+    border-color: purple; 
+    margin-top: 50px; 
+    margin-left: auto;
+    margin-right: auto; 
+    margin-bottom: 25px;  
+    padding-top: 50px;  
+    padding-right: 12px; 
+}
+
+#Robert_Frost {
+
+    font-size: 24px; 
+    font-family: "Impact";
+    color: purple; 
+ /*   text-decoration: overline underline; */ 
+    font-weight: bold;
+    font-style: italic; 
+    line-height: 50px;
+    direction: ltr;
+  /*  unicode-bidi: bidi-override; */ 
+    text-align: center;    
+}
