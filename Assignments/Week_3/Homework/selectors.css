@@ -1,0 +1,57 @@
+/* 
+ID and Class naming Rules: 
+Do not start with a number
+Do not use special characters 
+Do not start with a capital letter 
+*/ 
+
+body {
+    font-family: "Ariel"; 
+    background-color:pink;
+    
+    }
+    
+#first {
+    
+        font-family: "Courier"; 
+    
+    }
+    
+#special {
+        color: red;
+    }
+
+.different {
+            font-family: "Impact";
+        
+        }
+    
+.green {
+        color: green;
+        background-color: lightgreen
+    
+    }
+    
+    
+P {
+        font-family: "Lucinda Console"; 
+    
+    }
+
+#margins {
+        margin-left: 50px; 
+        margin-right: 100px;
+        margin-top: 25px; 
+        margin-bottom: 10px 
+
+    }
+
+#padding-left {
+
+        margin-left: 50px; 
+        margin-right: 100px;
+        margin-top: 25px; 
+        margin-bottom: 10px 
+
+
+        }
