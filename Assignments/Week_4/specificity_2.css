@@ -1,0 +1,75 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: darksalmon;
+}
+
+div {
+    width: 400px;
+    height: 400px;
+    background-color: blue; 
+ 
+}
+
+
+body footer div {
+    background-color: orange; 
+}
+
+html body footer div {
+    background-color: silver; 
+}
+
+
+header div {
+    width: 100px;
+    height: 100px;
+    background-color:green; 
+} 
+
+a {
+
+    color: orange; 
+}
+
+div a {
+
+    color: red; 
+}
+
+p a {
+    color: pink; 
+
+}
+
+/* selext all anchors which have an acestor or paragraph but this paragraph needs to have a PARENT of div, which in turn aso needs a div parent */
+
+div > div > div a {
+    color: greenyellow; 
+}
+
+p > a {
+    font-size: 24px; 
+}
+
+.bold {
+    text-decoration: overline;
+}
+/*select only the anchors with bold text */
+a.bold { 
+    font-weight: bold;  }
+
+   
+p#special-text {
+
+}
+
+ /*select the id of special-text, and this elemment needs to have ancestor of a paragraph*/
+p #special-text {
+
+
+}
+/*select all paragraphs and all anchors*/ 
+p, a {
+
+}
