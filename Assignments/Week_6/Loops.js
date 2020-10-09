@@ -31,7 +31,7 @@ do {
 // Break is for stopping the loop immediately. Generally used with if statements to test heter we want to continue with the loop or not
 for (var i =0; i <10; i = i +1) {
     console.log("Running");
-    
+    console.log(i);     
 if (i ==6) {
     break; 
 }
@@ -69,8 +69,8 @@ someNumber *=3;
 // Continue. once the continue keyword is exectuted, the rest of the code in the CURRENT loop will not run and will move on to the next iteration of the loop. 
 
 for (var i = 0; i < 10; i= 1 + 1) {
-    continue; 
-
+    if (true) { continue; 
+    } 
     console.log("ruunning with continue keyboard"); 
 }
 

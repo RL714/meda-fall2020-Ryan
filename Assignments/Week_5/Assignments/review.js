@@ -20,12 +20,14 @@ if (userAge > 18) {
 }
 
 else {
-
+}
 //FUNCTION
 function aFunction() {
 
 }
 
-aFunction();
+aFunction(); {
 
 }
+
+//PARAMTERS AND ARGUMENTS 
