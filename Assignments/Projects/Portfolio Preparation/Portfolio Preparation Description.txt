@@ -25,9 +25,9 @@ BACKGROUND
 https://www.pexels.com/photo/ruined-medieval-castle-against-purple-night-sky-4629695/
  (a video of moving clouds would be ideal for background, tinted purple, but that won’t be done for this, so a picture from Pexals depiction of a castle ruin against 
 a violet sky with black margins would be used instead) 
-Violet margins 
-Links will be in the same color as the rest of the text. On this page white. 
-*Header – Contact the Author, Who I Am (link to bio), Castle Merchandise (Small slightly rounded black perimeters make these look like buttons the links) White font.   
+Dark Violet margins, gray header and footer text. 
+Links will be in the same color as the rest of the text. Body text will be black against 
+a white backdrop. 
 *Body 
 Pretty Like a Veil - large white font 
 the Gloomy Castle – large white font, white text fades into existence if possible 
@@ -40,11 +40,11 @@ Footer – Contact – Castle Merchandise (books and shirts)
 
 AUTHOR PAGE
 PAGE 2
-BACKGROUND https://www.pexels.com/photo/silhouette-photo-of-a-mountain-during-sunset-114979/
-Violet margins 
+BACKGROUND Dark Purple background
+Violet margins, no additional header and footer color, text all black against white.  
 Linked to from both Who I Am and clicking Enter the Castle) 
 (Background will be the photo of the violet clouds) 
-Text and links will be black colored. 
+Text and links will be a middle gray colored. 
 -Header - Dreams of war, Dreams of lust, Dreams of the Gloomy Castle
 Hi, I am Ryan Landes and Pretty Like a Veil is a novel about Suicide in pre and post COVID America. It is about American fatalism—the things we do in the pursuit of happiness that are actually in the pursuit of self-destruction. It is about a strange dark castle that looks like a jagged fallen asteroid. 
 And it is about a charming man named Lacidius…or Ladicius as he sometimes calls himself by mistake. He is the host of the castle and he speaks in poetic riddles.  
@@ -56,30 +56,30 @@ BACKGROUND
 https://www.pexels.com/photo/lightning-on-the-sky-1294229/
 Violet margins 
 Header: Pretty Like a Veil (stylized font)
-Text and links will be black colored.  
+Text and links will be black colored against an opaque pannel.  
 Body: and somewhere partially hidden in the violet shrouds is the Gloomy Castle. 
-It can wrap us like a ribbon… - Lacidius… Ladicius 
+It can wrap us like a ribbon… - Lacidius… Ladicius (?) 
 (text is a link and takes us to page 4) 
 
 PAGE 4 
 BACKGROUND 
 https://www.pexels.com/photo/empty-hallway-3212375/ 
-Grey margins 
+Grey margins, no header, or footer.  
 (Background Gray Hallway Photo with similarly gray margins)
-Text and links will be black colored.  
+Text and links will be black colored agaisnt white cells.  
 The dusk stories we tell ourselves to make sense of dusk. – Ladicius(?) Keep clicking won’t you…
 
 PAGE 5
 BACKGROUND 
 https://www.pexels.com/photo/gray-concrete-cathedral-678047/
-Text and links will be black colored. 
+Text and links will be black colored against white, margins will be gray 
 Header: Pretty Like a Veil (stylized font) 
 Now what is ladiciuS backwards? (is a link and takes us to page 6)
 
 PAGE 6
 BACKGROUND 
-All white 
-Text and links will be white colored. 
+All white, including margins.  
+Text and links will be black colored. 
 ladiciuS … S?i?id?l   
 (this has a link that leads to page 7)
 
@@ -87,9 +87,10 @@ PAGE 7
 BACKGROUND 
 https://www.pexels.com/photo/woman-in-pink-dress-3812716/
 Violet margins 
-Text and links will be white colored.  
+Text and links will be black against white   
 Dreams of Lust…Dreams of war…Dreams of the Gloomy Castle? 
 Fade in text – Do you want to leave? (this has a link that leads to page 8) 
+Do you
 …
 
 PAGE 8 
@@ -99,17 +100,42 @@ Text and links will be black colored.
 The castle is a grand place. New rooms are being build everyday… 
 (this has a link that leads to the home page)
 
-PAGE 9 
+PAGE 9 - Castle Merchandise 
 BACKGROUND 
 Dark purple with overlay of photos arranged in a pattern of small thumbnails 
 from the grid section of my photos (Flowers + Women, Misc Things, Chicago, and Hallways
-arranged into the thumbnail pattern and resized properly) 
-Header – Castle Merchandise 
+arranged into the thumbnail pattern and resized properly). Text will be black over white. 
+PHOTOS
+Photo by Nadi Lindsay from Pexels
+https://www.pexels.com/photo/illuminated-neon-sign-3078831/
+Photo by Eunhyuk Ahn from Pexels
+https://www.pexels.com/photo/woman-standing-on-seashore-near-golden-gate-bridge-2894258/
+Photo by Chait Goli from Pexels
+https://www.pexels.com/photo/cloud-gate-chicago-1798130/
+Photo by Creative Free Stock from Pexels
+https://www.pexels.com/photo/purple-rose-on-wooden-surface-971360/
+Photo by Oleg Magni from Pexels
+https://www.pexels.com/photo/woman-showing-her-purple-lipstick-922472/
+Photo by Bob Ward from Pexels
+https://www.pexels.com/photo/running-vehicles-on-road-3347244/
+Photo by Aa Dil from Pexels
+https://www.pexels.com/photo/man-standing-between-stairway-on-pathway-1730337/ 
+Photo by Eduardo Romero from Pexels
+https://www.pexels.com/photo/marble-tiles-near-columns-2083961/ 
+Photo by Alex Powell from Pexels
+https://www.pexels.com/photo/low-angle-shot-of-an-airplane-1805192/ 
+Text - 
 Sorry! We don’t have anything just yet. Coming soon, promise! 
-He looks at me for a long second, starts to turn. “Go forth into the castle. Explore. It is a grand place. New rooms are being built every day…” 
-https://www.velvetspectrum.com/
+
+
+PAGE 10 - Contact the Author 
+BACKGROUND 
+All white, header will include links to homepage, links Who I Am and Enter the Castle (Home)  
+
+text - reach me at rlandesg@gmail.com for inquiries and bookings! 
 
 PORTFOLIO 1
+https://www.velvetspectrum.com/
 This portfolio has a fun selection of colors, a header font that really pops, and 
 despite being fairly visually appealing, it does not do so at the expense of clarity at all. 
 I liked how the main section’s pictures would alter into a form where text would show clearly 
@@ -117,9 +143,10 @@ over a layer of transparency that would dull the colors of the photos.
 The footer kept up the same tasteful format with some links to his 
 social media accounts. 
 When you do follow these links, they are great multi-media showcases for his work!  
-https://socketstudios.com/
+
 
 PORTFOLIO 2 
+https://socketstudios.com/
 This site could be very awkward at times, but I liked its generous use of space with 
 stark minimalistic colors like white and black. 
 I also enjoyed the way it felt quite exploratory the page, rewarding your curiosity 
@@ -132,9 +159,9 @@ the animation for the social media out-links, although the whole thing was fairl
 I did like the minimalism though. The initial page didn’t even have a header or footer. 
 There is the accelerated scroll button too that was an interesting touch too. 
 Overall, a little hard to navigate and overwhelming, but good stuff. 
-https://www.jessica-caldwell.com/
 
 PORTFOLIO 3
+https://www.jessica-caldwell.com/
 I enjoyed this portfolio’s elegant simplicity and some little touches like how the 
 background graphic near the header(?) shifted some when you scrolled. 
 The header was very traditional and as was the footer. 
@@ -161,36 +188,30 @@ Photo by Anthony Macajone from Pexels
 https://www.pexels.com/photo/gray-concrete-building-1874636/ 
 Photo by Robin Schreiner from Pexels
 https://www.pexels.com/photo/arches-hallway-inside-building-2261166/ 
-Photo by Aa Dil from Pexels
-https://www.pexels.com/photo/man-standing-between-stairway-on-pathway-1730337/ 
-Photo by Eduardo Romero from Pexels
-https://www.pexels.com/photo/marble-tiles-near-columns-2083961/ 
+
 Photo by Thiago Matos from Pexels
 https://www.pexels.com/photo/person-between-tiled-walls-2301527/ 
 
 The Grid – Misc Things (A set of photos on merch page) 
 
-Photo by Nadi Lindsay from Pexels
-https://www.pexels.com/photo/illuminated-neon-sign-3078831/
+
 Photo by Amit Thakral from Pexels
 https://www.pexels.com/photo/person-standing-on-balcony-2462767/
 Photo by Brady Knoll from Pexels
 https://www.pexels.com/photo/tall-palm-trees-under-purple-sky-3744162/
-Photo by Eunhyuk Ahn from Pexels
-https://www.pexels.com/photo/woman-standing-on-seashore-near-golden-gate-bridge-2894258/
 Photo by Alex Powell from Pexels
 https://www.pexels.com/photo/stairs-inside-well-lighted-building-1769384/
 
 The Grid – Flowers + Women  (A set of photos on merch page)
 a
-Photo by Creative Free Stock from Pexels
-https://www.pexels.com/photo/purple-rose-on-wooden-surface-971360/
+
+
+
 Photo by Wendy van Zyl from Pexels
 https://www.pexels.com/photo/two-red-roses-2858115/
 Photo by Lisa Fotios from Pexels
 https://www.pexels.com/photo/purple-flowers-1104370/ 
-Photo by Oleg Magni from Pexels
-https://www.pexels.com/photo/woman-showing-her-purple-lipstick-922472/
+
 Photo by Oleg Magni from Pexels
 https://www.pexels.com/photo/woman-in-purple-lipstick-922475/
 
@@ -198,17 +219,11 @@ The Grid – Chicago
 
 Photo by Alex Powell from Pexels
 https://www.pexels.com/photo/turned-on-building-lights-under-cloudy-sky-1769342/
-Photo by Bob Ward from Pexels
-https://www.pexels.com/photo/running-vehicles-on-road-3347244/
 Photo by Ricardo Esquivel from Pexels
 https://www.pexels.com/photo/grayscale-photo-of-buildings-near-river-1845978/
 Photo by Benjamin Suter from Pexels
 https://www.pexels.com/photo/city-skyline-during-golden-hour-3617456/
 https://www.pexels.com/photo/architecture-attraction-bay-bridge-356857/
-Photo by Chait Goli from Pexels
-https://www.pexels.com/photo/cloud-gate-chicago-1798130/
-Photo by Alex Powell from Pexels
-https://www.pexels.com/photo/low-angle-shot-of-an-airplane-1805192/ 
 
 The Grid – I Need of Snipping (A set of photos on merch page)
 
