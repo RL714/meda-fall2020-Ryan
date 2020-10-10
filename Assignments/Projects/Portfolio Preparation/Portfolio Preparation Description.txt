@@ -14,10 +14,10 @@ Page 2 (Background will be the photo of the violet clouds)
 Page 3 (Background the clear violet sky with the lightning) 
 Page 4 (Background Gray Hallway Photo with similarly gray margins) 
 Page 5 (Background gray small castle) 
-Page 6 (Background all black) 
+Page 6 (Background all white) 
 Page 7 (Girl with x-arms and purple hair) 
 Page 8 (Pure White page)
-Page 9 (Background of baroque hall for page) 
+Page 9 (Dark Violet background & Image Grid) 
 Text Content for Webpage 
 
 HOME PAGE PAGE 1
@@ -44,6 +44,7 @@ BACKGROUND Dark Purple background
 Violet margins, no additional header and footer color, text all black against white.  
 Linked to from both Who I Am and clicking Enter the Castle) 
 (Background will be the photo of the violet clouds) 
+Portrait, but no portrait in final product, as it goes against the theme of the page.
 Text and links will be a middle gray colored. 
 -Header - Dreams of war, Dreams of lust, Dreams of the Gloomy Castle
 Hi, I am Ryan Landes and Pretty Like a Veil is a novel about Suicide in pre and post COVID America. It is about American fatalism—the things we do in the pursuit of happiness that are actually in the pursuit of self-destruction. It is about a strange dark castle that looks like a jagged fallen asteroid. 
