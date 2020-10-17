@@ -1,5 +1,5 @@
 var timer = setInterval(function() { // Asynchronous
-    console.log("1 second has passed");
+  console.log("1 second has passed");
 }, 1000);
 
 // Synchronous
@@ -11,9 +11,9 @@ console.log(3);
 // Asynchronous
 
 setTimeout(function () {
-    console.log(5);
+  console.log(5);
 
-    clearInterval(timer);
+  clearInterval(timer);
 }, 5000);
 
 //var runsForever = setInterval(function () {
@@ -29,11 +29,11 @@ console.log(6);
 var myGlobalVariable = 100;
 
 function someFunction() {
-    var myLocalVariable = 10;
+  var myLocalVariable = 10;
 
-    console.log(myLocalVariable);
+  console.log(myLocalVariable);
 
-    console.log(myGlobalVariable);
+  console.log(myGlobalVariable);
 }
 
 someFunction();
@@ -46,17 +46,17 @@ console.log(myGlobalVariable);
 
 // If statements do not have scopes.
 if (true) {
-    // Code to run
+  // Code to run
 } 
 
 if (false) {
-    // Code to run
+  // Code to run
 }
 
 
 // Example
 if (true) {
-    var createdVariable = 300;
+  var createdVariable = 300;
 }
 
 console.log(createdVariable);
@@ -79,7 +79,7 @@ console.log(createdVariable);
 //Asynchronous 
 
 //setTimeout(function () { 
-    //console.log(5); 
+  //console.log(5); 
 
 //}, 5000); 
 
@@ -93,9 +93,9 @@ console.log(createdVariable);
 //var myGlobalVariable = 100; 
 
 //function someFunction () {
-  //  var myLocalVariable = 10; 
+//  var myLocalVariable = 10; 
 
-    //console.log(myLocalVariable); 
+  //console.log(myLocalVariable); 
 
 //}
 
@@ -128,35 +128,35 @@ console.log(createdVariable);
 //}
 
 //if (false) {
-    // Code to Run 
+  // Code to Run 
 //}
 
 
 //if (true) { 
-  //  var createdVariable = 100; 
+//  var createdVariable = 100; 
 //}
 
 //console.log(createdVariable); 
 
 //for (var i = 0; i < stringArray.length; i = i + 1) {
 
-  //  var currentLetter = stringArray[i];
-    
-    //    firstMartch = i; 
-    //break; This will stop the loop once we find the first match. 
+//  var currentLetter = stringArray[i];
+  
+  //    firstMartch = i; 
+  //break; This will stop the loop once we find the first match. 
 
 //    stringArray[i] = "E"; 
 
-  //  if (currentLetter === "e") {
-    //    console.log("We found an e!");
-      //  continue; // This will ignore the following code and move on with the rest of the loop 
+//  if (currentLetter === "e") {
+  //    console.log("We found an e!");
+    //  continue; // This will ignore the following code and move on with the rest of the loop 
 //    }
 
-  //  console.log("No e here!"); 
+//  console.log("No e here!"); 
 //}
 
 //if (firstMatch === -1) {
-  //  console.log("We did not find any Es!")
+//  console.log("We did not find any Es!")
 
 //} else {
 
