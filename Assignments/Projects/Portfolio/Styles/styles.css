@@ -11,8 +11,9 @@
     text-align: center; 
 }
  
-#WhiteText {
-    color: white; 
+.whiteBack {    
+    background: white; 
+    color: black; 
 
 }
 
@@ -20,3 +21,15 @@
     background-color: purple; 
 
 }
+
+.grayCastle {      
+    background-image: url("Photos/Gray_Castle.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    margin: 100px; 
+}
+.purpleLightning {
+background-image: url("Photos/Lightning_Purple.jpg");
+      background-repeat: no-repeat; 
+      background-size: cover; 
+} 

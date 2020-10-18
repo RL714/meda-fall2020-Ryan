@@ -99,7 +99,7 @@ Do you
 
 PAGE 8 
 BACKGROUND
-Pure white page 
+Pure white page *CHANGED TO GRAY CASTLE PICK
 Text and links will be black colored. 
 The castle is a grand place. New rooms are being build everyday… 
 (this has a link that leads to the home page)
@@ -137,6 +137,8 @@ BACKGROUND
 All white, header will include links to homepage, links Who I Am and Enter the Castle (Home)  
 
 text - reach me at rlandesg@gmail.com for inquiries and bookings! 
+
+Click here to download resume
 
 PORTFOLIO 1
 https://www.velvetspectrum.com/
