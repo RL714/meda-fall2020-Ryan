@@ -33,3 +33,84 @@ background-image: url("Photos/Lightning_Purple.jpg");
       background-repeat: no-repeat; 
       background-size: cover; 
 } 
+
+.gallery {
+    width: 202px;
+    height: 376px;
+    background-color: silver;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.gallery2 {
+    width: 247px;
+    height: 368px;
+    background-color: silver;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.gallery3 {
+    width: 202px;
+    height: 376px;
+    background-color: silver;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.gallery5 {
+    width: 202px;
+    height: 376px;
+    background-color: silver;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.gallery6 {
+    width: 202px;
+    height: 376px;
+    background-color: silver;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.gallery7 {
+    width: 202px;
+    height: 376px;
+    background-color: silver;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.gallery8 {
+    width: 202px;
+    height: 376px;
+    background-color: silver;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+#gallery-container {
+    line-height: 0px;
+}
